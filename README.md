@@ -2,6 +2,7 @@
 
 The “Coupons” dataset gave me insight into how people with certain tendencies, interests and demographics reacted to an offer of a coupon.
 Please see here for a Jupyter Notebook with my analysis and reccomendations: https://github.com/jlatouche7/Coupons_Analysis/blob/02e99101488ab53902bfb559448ca9b49040df06/couponscharacteristicsfinal.ipynb 
+
 There were a few things that I found particularly interesting when analyzing who is more/less likely to accept the coupons.
 I was able to find through analyzing the accepted coupon rates, for bar coupons, that people who visited the bar more often were more likely to accept the coupon.
 It seems obvious, but knowing this can help shape strategy moving forward.

@@ -1,5 +1,4 @@
-# Data-Science-Portfolio
-Coupons Data Analysis
+#Coupons Data Analysis
 
 The “Coupons” dataset gave us insight into how people with certain tendencies, interests and demographics reacted to an offer of a coupon.  
 While I could spend all day talking about what I was able to glean from this data, there were a few things that I found particularly interesting when analyzing who is more/less likely to accept the coupons.
